@@ -18,6 +18,8 @@ Strategic Deployment: The system can be deployed in high-crime areas, public tra
 SOS Signal Recognition: The system can recognize SOS signals, including emergency gestures and sign language, allowing women to discreetly signal for help when they cannot call for assistance vocally. This ensures that even non-verbal cries for help are detected and addressed quickly.
 
 Overall, this AI-driven solution offers a proactive, real-time approach to women's safety, reducing the risk of harm and providing women with the confidence to navigate public spaces. By focusing on prevention, continuous learning, and strategic deployment, the system has the potential to make a lasting impact on women's safety in urban areas.
+
+
 How to run 
 This Project contains 2 ML Models one for SOS sign detection and another for Gender classification and alert generation when women is alone . Just run the python Code in your VS code and the model will take input from your system camera.
 
