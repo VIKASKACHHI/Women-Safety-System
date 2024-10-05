@@ -20,6 +20,7 @@ SOS Signal Recognition: The system can recognize SOS signals, including emergenc
 Overall, this AI-driven solution offers a proactive, real-time approach to women's safety, reducing the risk of harm and providing women with the confidence to navigate public spaces. By focusing on prevention, continuous learning, and strategic deployment, the system has the potential to make a lasting impact on women's safety in urban areas.
 
 
-How to run 
+How to run :-
+
 This Project contains 2 ML Models one for SOS sign detection and another for Gender classification and alert generation when women is alone . Just run the python Code in your VS code and the model will take input from your system camera.
 
